@@ -4,7 +4,7 @@ from rich import print
 import subprocess
 
 subprocess.run("clear")
-print("[cyan1]T[/cyan1][cyan2]u[/cyan2][medium_spring_green]f[/medium_spring_green][spring_green1]G[/spring_green1][spring_green2]I[/spring_green2][green1]T[/green1] - The [bold]TUFFIEST[/bold] .gitignore file creator!")
+print("[grey3]T[/grey3][grey19]u[/grey19][grey35]f[/grey35][grey54]G[/grey54][grey66]I[/grey66][grey82]T[/grey82] - The [bold]TUFFIEST[/bold] .gitignore file creator!")
 
 answer = requests.get("https://www.toptal.com/developers/gitignore/api/list")
 languages = answer.text.split(",")
