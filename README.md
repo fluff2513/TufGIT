@@ -1,6 +1,6 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-1.0-orange)
+![Version](https://img.shields.io/badge/Tuff-1.0-orange)
 
 # TufGIT🔐
 
